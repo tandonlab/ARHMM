@@ -1,2 +1,1 @@
-# ARHMM
-Autoregressive hidden markov models for iEEG
+This contains a driver for ARHMM initialization & training on human intracranial electrophysiology data. It was distilled from a large internal code set using Claude in order to make it more broadly applicable to iEEG datasets.
